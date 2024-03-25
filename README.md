@@ -15,6 +15,7 @@ To compile and run the project using the provided Ant build script, follow these
 2. Navigate to the project directory: `cd ant-build`
 3. Execute the Ant build script: `ant`, or
     - To compile the Java files: `ant compile`
+    - To create JAR file: `ant jar`
     - To run the Java program: `ant run`
     - To clean up by deleting the `classes` directory: `ant clean`
 
