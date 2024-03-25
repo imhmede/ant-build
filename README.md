@@ -14,9 +14,9 @@ To compile and run the project using the provided Ant build script, follow these
 1. Clone the repository: `git clone https://github.com/your-username/ant-build.git`
 2. Navigate to the project directory: `cd ant-build`
 3. Execute the Ant build script: `ant`, or
-  - To compile the Java files: `ant compile`
-  - To run the Java program: `ant run`
-  - To clean up by deleting the `classes` directory: `ant clean`
+    - To compile the Java files: `ant compile`
+    - To run the Java program: `ant run`
+    - To clean up by deleting the `classes` directory: `ant clean`
 
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or create a pull request.
