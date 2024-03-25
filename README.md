@@ -9,24 +9,11 @@ The project consists of the following classes:
 - `QuickSort.java`: Implements the QuickSort algorithm to sort an array.
 - `Runner.java`: The main class takes user input, sorts the array using QuickSort, and performs Binary Search.
 
-  <span style="color: blue; font-size: 20px;">
-  project-root<br>
-├── src<br>
-│   ├── searching<br>
-│   │   └── BinarySearch.java<br>
-│   ├── sorting<br>
-│   │   └── QuickSort.java<br>
-│   └── main<br>
-│       └── app<br>
-│           └── Runner.java<br>
-└── build.xml<br>
-</span>
-
 ## Usage
 To compile and run the project using the provided Ant build script, follow these steps:
 1. Clone the repository: `git clone https://github.com/your-username/ant-build.git`
 2. Navigate to the project directory: `cd ant-build`
-3. Execute the Ant build script: `ant`
+3. Execute the Ant build script: `ant`, or
 4. Run the compiled program: `java -jar jar/Main.jar`
 
 ## Contributing
