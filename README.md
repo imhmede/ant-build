@@ -17,7 +17,7 @@ To compile and run the project using the provided Ant build script, follow these
     - To compile the Java files: `ant compile`
     - To create JAR file: `ant jar`
     - To run the Java program: `ant run`
-    - To clean up by deleting the `classes` directory: `ant clean`
+    - To clean up by deleting the `build` directory: `ant clean`
 
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or create a pull request.
