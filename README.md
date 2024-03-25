@@ -8,19 +8,8 @@ The project consists of the following classes:
 - `BinarySearch.java`: Implements Binary Search algorithm to find a target number in the sorted array.
 - `QuickSort.java`: Implements the QuickSort algorithm to sort an array.
 - `Runner.java`: The main class takes user input, sorts the array using QuickSort, and performs Binary Search.
-  <span style="color: blue; font-size: 20px;">
-  project-root
-├── src
-│   ├── searching
-│   │   └── BinarySearch.java
-│   ├── sorting
-│   │   └── QuickSort.java
-│   └── main
-│       └── app
-│           └── Runner.java
-└── build.xml
 
-  </span>
+  <span style="color: blue; font-size: 20px;">
   project-root<br>
 ├── src<br>
 │   ├── searching<br>
@@ -31,6 +20,7 @@ The project consists of the following classes:
 │       └── app<br>
 │           └── Runner.java<br>
 └── build.xml<br>
+</span>
 
 ## Usage
 To compile and run the project using the provided Ant build script, follow these steps:
